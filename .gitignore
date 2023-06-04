@@ -1,0 +1,5 @@
+QUIZ/
+*.docx
+*.zip
+.venv/*
+M04 Lab/.apiVenv/*
