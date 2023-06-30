@@ -3,3 +3,4 @@ QUIZ/
 *.zip
 .venv/*
 M04 Lab/.apiVenv/*
+node_modules
